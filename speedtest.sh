@@ -28,8 +28,8 @@ _constant() {
     bim_core_tar_x86_64_sha256="109280fbf5a821bc56c2e83b906e65228ebc8436054b2e7861ca6db88f7e0330"
     bim_core_tar_aarch64_sha256="fa62357f94050fbb7851d1bbb7e393d8e1301281ce03c43b37dae55cbf08c198"
     bim_core_tar_url=""
-    bim_core_tar_url_1="https://github.com/veoco/bim-core/releases/download/v${bim_core_version}/bimc-${bim_core_arch}-unknown-linux-musl"
-    bim_core_tar_url_2="https://github.com/veoco/bim-core/releases/download/v${bim_core_version}/bimc-${bim_core_arch}-unknown-linux-musl"
+    bim_core_tar_url_1="https://github.moeyy.xyz/https://github.com/veoco/bim-core/releases/download/v${bim_core_version}/bimc-${bim_core_arch}-unknown-linux-musl"
+    bim_core_tar_url_2="https://github.moeyy.xyz/https://github.com/veoco/bim-core/releases/download/v${bim_core_version}/bimc-${bim_core_arch}-unknown-linux-musl"
 
     # speedtest-go，https://github.com/showwin/speedtest-go
     speedtest_go_version="1.6.11"
@@ -39,8 +39,8 @@ _constant() {
     speedtest_go_tar_armv7_sha256="f30ba82ac4e6fd967302d505fa7380745d89a4ddcfb72f607b580ef507e5eb0a"
     speedtest_go_tar_armv6_sha256="ccdc0a4281c193cccc027e7c2fb2b961e1eb3e4eab1dcf68b46bd0dafd2e895f"
     speedtest_go_tar_url=""
-    speedtest_go_tar_url_1="https://github.com/showwin/speedtest-go/releases/download/v${speedtest_go_version}/speedtest-go_${speedtest_go_version}_Linux_${speedtest_go_arch}.tar.gz"
-    speedtest_go_tar_url_2="https://github.com/showwin/speedtest-go/releases/download/v${speedtest_go_version}/speedtest-go_${speedtest_go_version}_Linux_${speedtest_go_arch}.tar.gz"
+    speedtest_go_tar_url_1="https://github.moeyy.xyz/https://github.com/showwin/speedtest-go/releases/download/v${speedtest_go_version}/speedtest-go_${speedtest_go_version}_Linux_${speedtest_go_arch}.tar.gz"
+    speedtest_go_tar_url_2="https://github.moeyy.xyz/https://github.com/showwin/speedtest-go/releases/download/v${speedtest_go_version}/speedtest-go_${speedtest_go_version}_Linux_${speedtest_go_arch}.tar.gz"
 
     # librespeed-cli，https://github.com/librespeed/speedtest-cli
     librespeed_cli_version="1.0.10"
@@ -50,8 +50,8 @@ _constant() {
     librespeed_cli_tar_armv7_sha256="b121733b9a18aa646a16393396dd7fe59e8773420a38acb05b91652c4d6cb356"
     librespeed_cli_tar_armv6_sha256="def98bbf0e79805411bca312e9e6bcddd12cd0abf4e6584a3ae05aa20c762b64"
     librespeed_cli_tar_url=""
-    librespeed_cli_tar_url_1="https://github.com/librespeed/speedtest-cli/releases/download/v${librespeed_cli_version}/librespeed-cli_${librespeed_cli_version}_linux_${librespeed_cli_arch}.tar.gz"
-    librespeed_cli_tar_url_2="https://github.com/librespeed/speedtest-cli/releases/download/v${librespeed_cli_version}/librespeed-cli_${librespeed_cli_version}_linux_${librespeed_cli_arch}.tar.gz"
+    librespeed_cli_tar_url_1="https://github.moeyy.xyz/https://github.com/librespeed/speedtest-cli/releases/download/v${librespeed_cli_version}/librespeed-cli_${librespeed_cli_version}_linux_${librespeed_cli_arch}.tar.gz"
+    librespeed_cli_tar_url_2="https://github.moeyy.xyz/https://github.com/librespeed/speedtest-cli/releases/download/v${librespeed_cli_version}/librespeed-cli_${librespeed_cli_version}_linux_${librespeed_cli_arch}.tar.gz"
 
     # 配色
     red='\033[1;31m'
