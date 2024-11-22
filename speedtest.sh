@@ -7,8 +7,8 @@ _constant() {
     old_IFS="$IFS"
     work_dir="./sp-github-i-abc"
     node_set=""
-    node_set_1="https://raw.githubusercontent.com/i-abc/speedtest/node/all-node.txt"
-    node_set_2="https://raw.githubusercontent.com/i-abc/speedtest/node/all-node-mirror.txt"
+    node_set_1="https://github.moeyy.xyz/https://raw.githubusercontent.com/i-abc/speedtest/node/all-node.txt"
+    node_set_2="https://github.moeyy.xyz/https://raw.githubusercontent.com/i-abc/speedtest/node/all-node-mirror.txt"
 
     # url_1为官方源，url_2为镜像源，皆会进行SHA-256检测
 
@@ -21,7 +21,7 @@ _constant() {
     speedtest_cli_tar_armel_sha256="629a455a2879224bd0dbd4b36d8c721dda540717937e4660b4d2c966029466bf"
     speedtest_cli_tar_url=""
     speedtest_cli_tar_url_1="https://install.speedtest.net/app/cli/ookla-speedtest-${speedtest_cli_version}-linux-${speedtest_cli_arch}.tgz"
-    speedtest_cli_tar_url_2="https://raw.githubusercontent.com/i-abc/speedtest/asset/speedtest-cli/v${speedtest_cli_version}/ookla-speedtest-${speedtest_cli_version}-linux-${speedtest_cli_arch}.tgz"
+    speedtest_cli_tar_url_2="https://github.moeyy.xyz/https://raw.githubusercontent.com/i-abc/speedtest/asset/speedtest-cli/v${speedtest_cli_version}/ookla-speedtest-${speedtest_cli_version}-linux-${speedtest_cli_arch}.tgz"
 
     # bim-core，https://github.com/veoco/bim-core
     bim_core_version="0.17.0"
